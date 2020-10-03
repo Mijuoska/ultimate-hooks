@@ -1,0 +1,49 @@
+{
+  "notes": [
+    {
+      "content": "custom-hookit aivan mahtavia",
+      "id": 1
+    },
+    {
+      "content": "paras feature ikinä <3",
+      "id": 2
+    },
+    {
+      "content": "hello world",
+      "id": 3
+    },
+    {
+      "content": "new note",
+      "id": 4
+    },
+    {
+      "content": "New note",
+      "id": 5
+    },
+    {
+      "content": "hkhkh",
+      "id": 6
+    },
+    {
+      "content": "jljlsajflsaf",
+      "id": 7
+    }
+  ],
+  "persons": [
+    {
+      "name": "mluukkai",
+      "number": "040-5483923",
+      "id": 1
+    },
+    {
+      "name": "Miika",
+      "number": "0445623636",
+      "id": 2
+    },
+    {
+      "name": "New person",
+      "number": "123123",
+      "id": 3
+    }
+  ]
+}
